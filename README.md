@@ -9,9 +9,10 @@ The datasets are drawn from Kaggle and trained to create meaningful knowledge ba
 Further it is integrated into a website built in Python/Django using Microsoft Visual Code. 
 Azure Web App Service is used to deploy the project on Azure Portal.
 
-Project Demo : https://youtu.be/YiQ6koIIlB8
+Video Project Demo : https://youtu.be/YiQ6koIIlB8
 
 Screenshots : 
+
 Home Page : https://i.postimg.cc/nLfYMS44/home1.png
 
 Home Page(bot enabled): https://i.postimg.cc/SKLL9Ldw/home2.png
